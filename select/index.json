@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フランマ",
+  "base_artist": "Element Sicks",
+  "createdAt": "2026-02-21T06:05:03.947390Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フランマ",
+      "artist": "Element Sicks",
+      "has_synced": false,
+      "path": "select/pl_01_フランマ_Element_Sicks.txt"
+    }
+  ]
+}
